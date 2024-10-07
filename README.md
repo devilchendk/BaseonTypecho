@@ -1,5 +1,5 @@
 # BaseonTypecho
-基于typecho（Jasmine主题）、阿里云服务器搭建的个人网站设计—简约
+基于typecho（Jasmine主题）、阿里云服务器搭建的个人网站 简约设计
 
 网站地址（可当作演示网站）：https://www.chendk.info
 
