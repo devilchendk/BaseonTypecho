@@ -1,3 +1,4 @@
+# 新账号：https://github.com/kaitoven
 # BaseonTypecho
 基于typecho（Jasmine主题）、阿里云服务器搭建的个人网站 简约设计
 
